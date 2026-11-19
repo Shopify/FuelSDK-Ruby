@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 FuelSDK-Ruby
 ============
 
@@ -119,9 +121,3 @@ All methods on Fuel SDK objects return a generic object that follows the same st
 
 ## Samples ##
 Find more sample files that illustrate using all of the available functions for ExactTarget objects exposed through the API in the samples directory.
-
-
-
-
-
-
